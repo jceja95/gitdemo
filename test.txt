@@ -7,3 +7,5 @@ ctrl + c = copy
 # steps
 untracked file -- add -- commit -- push
 git commit --help
+
+something new
