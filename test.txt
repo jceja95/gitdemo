@@ -2,3 +2,8 @@ ctrl + s = save
 ctrl + z = undo
 ctrl + a = highlight all
 new-item test/txt = create new file
+ctrl + c = copy
+
+# steps
+untracked file -- add -- commit -- push
+git commit --help
